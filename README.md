@@ -83,3 +83,11 @@ For demonstration purposes, you can use the following credentials to log in as a
 You can also register new users from the login page with any email and password.
 
 ## Project Structure (Frontend)
+mern-stack-app/
+├── public/                 # Public assets (e.g., index.html template)
+├── src/
+│   ├── App.js              # Main application component
+│   ├── index.js            # React app entry point
+│   └── styles.css          # Custom CSS for gradients, glass effect, etc.
+├── package.json            # Project dependencies and scripts
+└── README.md               # This file
